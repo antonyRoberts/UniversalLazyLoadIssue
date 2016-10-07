@@ -1,0 +1,10 @@
+.main-toolbar{
+    background-color: aquamarine !important;
+    padding: 5px;
+    margin: 0px !important ;
+}
+
+body{
+    margin: 0 0 5px 0 !important;
+    padding: 0px;
+}
